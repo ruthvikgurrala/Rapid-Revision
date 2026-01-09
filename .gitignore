@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Security & Firebase
+.env
+.env.*
+firestore.rules
+firebase.json
+.firebase/
